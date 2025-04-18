@@ -2,8 +2,8 @@
 
 Bienvenido a este proyecto de **visualización de datos interactiva** desarrollado con [Dash](https://dash.plotly.com/) y [Plotly](https://plotly.com/), ideal para explorar datos dinámicamente desde el navegador.
 
-![Dash](https://img.shields.io/badge/Dash-Framework-blue?style=flat&logo=plotly)
-![Plotly](https://img.shields.io/badge/Plotly-Graphing-orange?style=flat&logo=plotly)
+![Dash](https://img.shields.io/badge/Dash-Framework-blue?style=flat)
+![Plotly](https://img.shields.io/badge/Plotly-Graphing-orange?style=flat)
 ![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)
 
 ---
