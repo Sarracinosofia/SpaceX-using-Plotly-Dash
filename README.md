@@ -23,7 +23,7 @@ Bienvenido a este proyecto de visualización de datos interactiva desarrollado c
 
 ---
 
-## 🖼️ Captura de pantalla
+## 🖼️ Resultados visuales
 
 ![Gráfico interactivo](https://github.com/Sarracinosofia/SpaceX-using-Plotly-Dash/blob/main/Dash/a.png)
 
