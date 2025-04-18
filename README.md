@@ -32,6 +32,5 @@ Bienvenido a este proyecto de **visualización de datos interactiva** desarrolla
 /mi-proyecto
 ├── Readme
 ├── spacex-dash-app.py.1
-├── assets/
-│   ├── dashboard-home.png
+├── dash/
 │   └── grafico-interactivo.png
