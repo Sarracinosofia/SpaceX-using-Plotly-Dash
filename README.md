@@ -18,6 +18,7 @@ Bienvenido a este proyecto de **visualización de datos interactiva** desarrolla
 ---
 
 🚀 Tecnologías utilizadas
+---
 	•	Python
 	•	Dash & Plotly
 	•	Pandas
