@@ -23,11 +23,9 @@ Bienvenido a este proyecto de visualización de datos interactiva desarrollado c
 
 ---
 
-## 🖼️ Capturas de pantalla
+## 🖼️ Captura de pantalla
 
-<p align="center">
-  <img src=["dash/grafico-interactivo.png"](https://github.com/Sarracinosofia/SpaceX-using-Plotly-Dash/blob/main/Dash/a.png) alt="Dashboard Interactivo" width="600"/>
-</p>
+![Gráfico interactivo](https://github.com/Sarracinosofia/SpaceX-using-Plotly-Dash/blob/main/Dash/a.png)
 
 ---
 
