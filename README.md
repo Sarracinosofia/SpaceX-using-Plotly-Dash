@@ -32,6 +32,8 @@ Bienvenido a este proyecto de visualización de datos interactiva desarrollado c
 ---
 
 ## 📁 Estructura del proyecto
+---
+
 ├── README.md
 ├── spacex-dash-app.py
 ├── dash/
