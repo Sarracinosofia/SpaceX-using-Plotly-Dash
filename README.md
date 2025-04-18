@@ -11,10 +11,13 @@ Bienvenido a este proyecto de visualización de datos interactiva desarrollado c
 
 ## 🚀 Tecnologías utilizadas
 
-- ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) **Python**
-- ![Dash Logo](https://dash.plotly.com/_dash-component-suites/dash_core_components/active.png) **Dash**
-- ![Plotly Logo](https://raw.githubusercontent.com/plotly/plotly.js/master/dist/plotly-logo.png) **Plotly**
-- **Pandas**
+## 🚀 Tecnologías utilizadas
+
+<img src="https://img.icons8.com/color/48/000000/python.png" height="30"/> Python  
+<img src="https://avatars.githubusercontent.com/u/98519478?s=200&v=4" height="30"/> Dash  
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" height="30"/> Plotly  
+Pandas  
+Jupyter Notebook- **Pandas**
 - **Jupyter Notebook**
 
 ## 🖼️ Capturas de pantalla
