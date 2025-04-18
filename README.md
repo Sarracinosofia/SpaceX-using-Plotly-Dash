@@ -30,8 +30,8 @@ Bienvenido a este proyecto de **visualización de datos interactiva** desarrolla
 
 ```bash
 /mi-proyecto
-│
-├── app.py
+├── Readme
+├── spacex-dash-app.py.1
 ├── assets/
 │   ├── dashboard-home.png
 │   └── grafico-interactivo.png
