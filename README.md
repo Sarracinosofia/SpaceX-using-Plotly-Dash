@@ -33,8 +33,8 @@ Bienvenido a este proyecto de visualización de datos interactiva desarrollado c
 
 ## 📁 Estructura del proyecto
 
-- mi-proyecto/
-  - Dash/
-    - grafico-interactivo.png
-  - README.md  
-  - spacex-dash-app.py.1
+ [mi-proyecto/](./)
+  - [Dash/](./Dash/)
+     [grafico-interactivo.png](./Dash/grafico-interactivo.png)
+  - [README.md](./README.md)  
+  - [spacex-dash-app.py.1](./spacex-dash-app.py.1)
