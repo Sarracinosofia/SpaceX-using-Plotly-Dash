@@ -9,19 +9,17 @@ Bienvenido a este proyecto de visualización de datos interactiva desarrollado c
 - Visualiza datos en tiempo real o precargados.  
 - Usa *dropdowns*, gráficos dinámicos y mapas interactivos.  
 - Permite al usuario explorar la información filtrando o seleccionando distintas opciones.  
-- Ideal para análisis exploratorio, seguimiento de indicadores o reportes ejecutivos.  
+- Ideal para análisis exploratorio, seguimiento de indicadores o reportes ejecutivos.
 
 ---
 
 ## 🚀 Tecnologías utilizadas
 
-| Lenguaje / Herramienta | Logo |
-|------------------------|------|
-| Python                 | ![Python](https://img.icons8.com/color/48/000000/python--v1.png) |
-| Dash                   | ![Dash](https://avatars.githubusercontent.com/u/98519478?s=200&v=4) |
-| Plotly                 | ![Plotly](https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png) |
-| Pandas                 | — |
-| Jupyter Notebook       | — |
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dash](https://img.shields.io/badge/Dash-000000?style=for-the-badge&logo=plotly&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
